@@ -1,5 +1,6 @@
 # A bit off!
 Java GUI game for grade 12 computer studies class cpt
+![screenshot 1](https://raw.githubusercontent.com/lilweege/a-bit-off/master/screenshot.jpg)
 
 ## Backstory
 This game was created as my final project for ICS4U. It was meant to be a group project but I competed it all myself. 
