@@ -54,10 +54,10 @@ public class GameHint extends GameObject {
 	private static final String TEXT_NOT = 
 			TEXT_PROMPT + 
 			"       Bitwise NOT\n" + 
-			"One's complement is a\n" + 
+			"Two's complement is a\n" +
 			"binary operator that will\n" + 
 			"essentially flip the sign\n" + 
-			"and subtract one.";
+			"and add one.";
 
 	private static final String TEXT_AND = 
 			TEXT_PROMPT + 
